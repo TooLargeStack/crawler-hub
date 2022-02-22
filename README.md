@@ -115,4 +115,4 @@ customize it when you are ready for it.
 
   
 
-In case you have the docker and docker-compose installed on your machine you can also run and build the application by just runnin `docker-compose build` and `docker-compose up
+In case you have the docker and docker-compose installed on your machine you can also run and build the application by just running `docker-compose build` and `docker-compose up`
