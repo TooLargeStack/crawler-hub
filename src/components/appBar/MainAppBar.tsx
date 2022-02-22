@@ -39,7 +39,7 @@ const NavBarContainer = ({ children, toggleVisibility, ...props  } : AuxProps) =
             icon={<HamburgerIcon />}
             onClick={toggleVisibility}
           ></IconButton>
-          <Text fontSize='xl' align="left" >CRUB dfgsgfd</Text>
+          <Text fontSize='xl' align="left" ml={4}>CRUB</Text>
         </Flex>
       </Box>
       {children}
